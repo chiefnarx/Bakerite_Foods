@@ -1,6 +1,6 @@
 # ☁️ Bakerite Foods Data Pipeline  
 
-Bakerite Foods is a data engineering project designed to orchestrate and automate data workflows for a fictional food distribution company. Using **Apache Airflow** on WSL, the pipeline extracts, transforms, and loads (ETL) raw data into structured tables within **Azure cloud storage and services**. The end-to-end system ensures reliability, scalability, and automation of data operations.  
+Bakerite Foods is a data engineering project designed to orchestrate and automate data workflows for a food distribution company. Using **Apache Airflow** on WSL, the pipeline extracts, transforms, and loads (ETL) raw data into structured tables within **Azure cloud storage and services**. The end-to-end system ensures reliability, scalability, and automation of data operations.  
 
 ---
 
